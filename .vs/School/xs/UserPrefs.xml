@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6D620DFE-C436-4EFC-9DB8-C4AA20F21D9D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="School/SchoolSupply.cs">
+    <Files>
+      <File FileName="School/Program.cs" Line="14" Column="50" />
+      <File FileName="School/Item.cs" Line="11" Column="37" />
+      <File FileName="School/SchoolSupply.cs" Line="88" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="School" expanded="True">
+            <Node name="School" expanded="True">
+              <Node name="SchoolSupply.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.School PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

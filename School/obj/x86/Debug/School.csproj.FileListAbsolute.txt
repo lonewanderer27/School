@@ -1,0 +1,6 @@
+/home/ian/Projects/School/School/bin/Debug/School.exe
+/home/ian/Projects/School/School/bin/Debug/School.pdb
+/home/ian/Projects/School/School/obj/x86/Debug/School.csproj.AssemblyReference.cache
+/home/ian/Projects/School/School/obj/x86/Debug/School.csproj.CoreCompileInputs.cache
+/home/ian/Projects/School/School/obj/x86/Debug/School.exe
+/home/ian/Projects/School/School/obj/x86/Debug/School.pdb
